@@ -18,6 +18,11 @@ Dive into a world where we bridge theoretical understanding with practical imple
    - **Code**: [Colab Notebook](https://colab.research.google.com/drive/1-7QeW2EQPggRwT0ddmwqwT5veM09xtQW?usp=sharing)
    - **Medium Article**: [Medium Article](https://medium.com/@turna.fardousi/generating-images-videos-and-animations-with-the-stable-diffusion-model-via-replicate-api-in-d6d6bb3a7601)
 
+### 2. Gemini with Vertex AI and Google Colab
+   - **Code**: [Colab Notebook](https://colab.research.google.com/drive/1uXrsSBar97gjpFppVmyD3ym0v3LZ2e_H?usp=sharing)
+   - **Medium Article**: [Medium Article](https://medium.com/@turna.fardousi/gemini-and-its-multimodality-support-with-vertex-ai-on-google-cloud-a-beginners-guide-ee8c93079be4)
+     
+
 ## Getting Started
 
 1. **Clone the Repository for Tutorial Codes**:  
